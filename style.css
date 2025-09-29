@@ -519,9 +519,11 @@ padding: 0;
 
 .about-col img {
     width: 100%;
+    max-width: 100%;
     height: auto;
-    border-radius: 10px;
+    display: block;
 }
+
 
 .about-col h1 {
     padding-top: 0;
@@ -675,6 +677,7 @@ padding: 0;
     text-decoration: none;
     color: #777;
 }
+
 
 
 
